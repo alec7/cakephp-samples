@@ -1,0 +1,8 @@
+*.thumb
+composer.lock
+
+/.idea
+/app/Config/database.php
+/app/tmp
+/app/Vendor/autoload.php
+/app/Vendor/composer

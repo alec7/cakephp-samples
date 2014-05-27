@@ -1,0 +1,18 @@
+{
+	"name": "burzum/cakephp-examples",
+	"type": "cakephp-application",
+	"description": "A collection of examples for CakePHP",
+	"keywords": ["cakephp", "examples", "learning", "tutorial"],
+	"homepage": "http://github.com/burzum/cakephp-examples",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Florian Krämer",
+			"homepage": "http://florian-kraemer.net"
+		}
+	],
+	"minimum-stability": "master",
+	"require": {
+		"php": ">=5.3.2"
+	},
+}
